@@ -1,5 +1,5 @@
 # MA-573-Independent-Study
-[Day One Project- First Code: Git + Colab] (https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/first_code.ipynb)
+[Day One Project- First Code: Git + Colab](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/first_code.ipynb)
 
 [Day One Project- First Notebook] (https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/first_notebook_v01.ipynb)
 
