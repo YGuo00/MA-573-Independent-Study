@@ -21,3 +21,11 @@
 (https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/Proof_Proposition.pdf)
 
 [Day Three Project- Proof of Second Derivative of Convergence Order 1](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/proof_of_2_derivative_problem.ipynb)
+
+[Day Four Project- Homework Correction Pdf.](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/2-2-22%20%E4%B8%8B%E5%8D%8810:51%20Microsoft%20Lens.pdf)
+
+[Day Four Project- Day4 HW1](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/day4_hw1.ipynb)
+
+[Day Four Project- Day4 HW2](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/day4_hw2.ipynb)
+
+[Day Four Project- Implied Volatility](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/implied_volatility.ipynb)
