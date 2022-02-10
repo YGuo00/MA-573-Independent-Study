@@ -1,0 +1,53 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "20optiondata2.dat",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMGPgcCZ10OYcdK1hlVzUo+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/YGuo00/MA-573-Independent-Study/blob/main/src/20optiondata2.dat\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "rYCbqLvLOxb6"
+      },
+      "outputs": [],
+      "source": [
+        "# #otype, maturity, strike, price \n",
+        "# \n",
+        "1.000000000000000000e+00,1.666666666666666574e-01,9.700000000000000000e+01,5.327054607707600198e+00\n",
+        "1.000000000000000000e+00,1.666666666666666574e-01,9.900000000000000000e+01,3.862242550837919897e+00\n",
+        "1.000000000000000000e+00,1.666666666666666574e-01,1.010000000000000000e+02,2.720437099376171286e+00\n",
+        "1.000000000000000000e+00,1.666666666666666574e-01,1.030000000000000000e+02,2.120279298119744027e+00\n",
+        "1.000000000000000000e+00,4.166666666666666852e-01,9.700000000000000000e+01,7.237563067159547003e+00\n",
+        "1.000000000000000000e+00,4.166666666666666852e-01,9.900000000000000000e+01,5.950534606338714561e+00\n",
+        "1.000000000000000000e+00,4.166666666666666852e-01,1.010000000000000000e+02,5.264012203816426982e+00\n",
+        "1.000000000000000000e+00,4.166666666666666852e-01,1.030000000000000000e+02,4.974934217069144182e+00\n",
+        "# # Heston (init_state = [100.0, 0.04], r = 0.03, kappa = 1.2, theta = 0.04, xi = 0.3, rho = 0.5)\n",
+        "# \n"
+      ]
+    }
+  ]
+}
