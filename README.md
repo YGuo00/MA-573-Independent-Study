@@ -29,3 +29,11 @@
 [Day Four Project- Day4 HW2](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/day4_hw2.ipynb)
 
 [Day Four Project- Implied Volatility](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/implied_volatility.ipynb)
+
+[Day Five Project- Day4 HW1 Corrections](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/day4_hw1_correction.ipynb)
+
+[Day Five Project- Day4 HW2 Corrections](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/day4_hw2_redo.ipynb)
+
+[Day Five Project- Volatility Smile](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/volatility_smile.ipynb)
+
+[Day Five Project- Proofs](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20Proofs.pdf)
