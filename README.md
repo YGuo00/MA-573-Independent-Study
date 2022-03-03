@@ -37,3 +37,9 @@
 [Day Five Project- Volatility Smile](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/volatility_smile.ipynb)
 
 [Day Five Project- Proofs](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20Proofs.pdf)
+
+[Day Six Project- Day5 HW Corrections](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20HW%20Correction%203-3.pdf)
+
+[Day Six Project- Day6 HW](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/3-2-22%20%E4%B8%8B%E5%8D%887:18%20Microsoft%20Lens.pdf)
+
+[Day Six Project- Black Scholes Greek](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/black_scholes_model_greek.ipynb)
