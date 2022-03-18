@@ -43,3 +43,16 @@
 [Day Six Project- Day6 HW](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/3-2-22%20%E4%B8%8B%E5%8D%887:18%20Microsoft%20Lens.pdf)
 
 [Day Six Project- Black Scholes Greek](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/black_scholes_model_greek.ipynb)
+
+Day Seven:
+
+Corrections:
+1. [Correction HW Part 1](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20Correction%203-17-2022.pdf)
+2. [Correction HW Part 2](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA_573_hw_correction_3_17_2022.ipynb)
+3. [Correction Reading](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/black_scholes_model_greek.ipynb)
+
+Homework: [Carlibrated Volatility](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/hw_3_17_2022.ipynb)
+
+Reading: Monte Carlo
+1. [Code](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/Monte_Carlo.ipynb)
+2. [Others](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20Reading%203-17-2022.pdf)
