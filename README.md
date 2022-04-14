@@ -56,3 +56,5 @@ Homework: [Carlibrated Volatility](https://github.com/YGuo00/MA-573-Independent-
 Reading: Monte Carlo
 1. [Code](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/Monte_Carlo.ipynb)
 2. [Others](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/src/MA%20573%20Reading%203-17-2022.pdf)
+
+Day Eight: Reading: [Brownian](https://github.com/YGuo00/MA-573-Independent-Study/blob/main/Brownian_path/src.ipynb)
